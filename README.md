@@ -130,7 +130,7 @@ Proyek menggunakan dua named volumes:
 | db_data | /var/lib/mysql | Menyimpan data MariaDB |
 | wordpress_data | /var/www/html | Menyimpan file WordPress |
 
-Volumes memungkinkan data tetap tersedia meskipun container dihentikan atau dibuat ulang.
+Volumes memungkinkan data tetap ada meskipun container dihentikan atau dibuat ulang.
 
 ## 5. Cara Menjalankan Proyek
 
